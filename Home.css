@@ -1,0 +1,121 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/pexels-jair-hernandez-villarreal-12087895.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 833px;
+}
+
+.u-section-1 .u-line-1 {
+  width: 344px;
+  transform-origin: right center 0px;
+  height: 3px;
+  position: absolute;
+  top: 192px;
+  left: 398px;
+}
+
+.u-section-1 .u-line-2 {
+  width: 509px;
+  transform-origin: right center 0px;
+  height: 3px;
+  position: absolute;
+  top: 314px;
+  left: 316px;
+}
+
+.u-section-1 .u-line-3 {
+  width: 344px;
+  transform-origin: right center 0px;
+  margin: 93px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  letter-spacing: 8px;
+  font-weight: 700;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 222px auto 0;
+}
+
+.u-section-1 .u-line-4 {
+  width: 509px;
+  transform-origin: right center 0px;
+  margin: 63px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-family: "Noto Sans Old Italic";
+  margin: 134px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 687px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 526px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 395px;
+  }
+
+  .u-section-1 .u-line-3 {
+    margin-top: -584px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 282px;
+  }
+
+  .u-section-1 .u-line-4 {
+    margin-top: 3px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 249px;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-line-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-line-3 {
+    width: 340px;
+    margin-top: -364px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 222px;
+  }
+
+  .u-section-1 .u-line-4 {
+    width: 340px;
+    margin-top: 71px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-bottom: 0;
+  }
+}
